@@ -1,90 +1,172 @@
 [
     {
         "nome": "nckz06_",
+        "photo": "https://avatars.githubusercontent.com/u/132695547?v=4",
         "tabela": [
             {
-               "pontuacao": 38,
+               "pontuacao": 42,
+               "precisao": 87.03,
+               "erros": 3,
+               "acertos": 40,
+               "qtd_letras": 226,
                "data": "2026-03-31" 
             },
             {
-               "pontuacao": 39,
+               "pontuacao": 46,
+               "precisao": 85.13,
+               "erros": 5,
+               "acertos": 44,
+               "qtd_letras": 254,
                "data": "2026-03-31" 
             },
             {
-               "pontuacao": 41,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 47,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 49,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 47,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 56,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 47,
+               "pontuacao": 48,
+               "precisao": 91.54,
+               "erros": 3,
+               "acertos": 46,
+               "qtd_letras": 254,
                "data": "2026-03-31" 
             },
             {
                "pontuacao": 44,
+               "precisao": 80.22,
+               "erros": 7,
+               "acertos": 43,
+               "qtd_letras": 263,
                "data": "2026-03-31" 
             },
             {
-               "pontuacao": 47,
+               "pontuacao": 54,
+               "precisao": 93.77,
+               "erros": 2,
+               "acertos": 51,
+               "qtd_letras": 283,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 58,
+               "precisao": 96.68,
+               "erros": 1,
+               "acertos": 54,
+               "qtd_letras": 298,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 52,
+               "precisao": 92.86,
+               "erros": 2,
+               "acertos": 50,
+               "qtd_letras": 276,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 48,
+               "precisao": 88.00,
+               "erros": 3,
+               "acertos": 47,
+               "qtd_letras": 263,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 52,
+               "precisao": 90.66,
+               "erros": 3,
+               "acertos": 49,
+               "qtd_letras": 276,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 54,
+               "precisao": 91.19,
+               "erros": 4,
+               "acertos": 50,
+               "qtd_letras": 292,
                "data": "2026-03-31" 
             }
         ]
     }, 
     {
         "nome": "MateusVSZ",
+        "photo": "https://avatars.githubusercontent.com/u/241757698?v=4",
         "tabela": [
             {
                "pontuacao": 62,
+               "precisao": 88.07,
+               "erros": 7,
+               "acertos": 56,
+               "qtd_letras": 343,
                "data": "2026-03-31" 
             },
             {
-               "pontuacao": 55,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 48,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 58,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 59,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 59,
-               "data": "2026-03-31" 
-            },
-            {
-               "pontuacao": 56,
+               "pontuacao": 64,
+               "precisao": 90.96,
+               "erros": 4,
+               "acertos": 59,
+               "qtd_letras": 343,
                "data": "2026-03-31" 
             },
             {
                "pontuacao": 54,
+               "precisao": 81.02,
+               "erros": 9,
+               "acertos": 49,
+               "qtd_letras": 316,
                "data": "2026-03-31" 
             },
             {
-               "pontuacao": 59,
+               "pontuacao": 61,
+               "precisao": 89.68,
+               "erros": 5,
+               "acertos": 55,
+               "qtd_letras": 327,
                "data": "2026-03-31" 
             },
             {
-               "pontuacao": 59,
+               "pontuacao": 63,
+               "precisao": 91.09,
+               "erros": 3,
+               "acertos": 58,
+               "qtd_letras": 333,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 67,
+               "precisao": 93.56,
+               "erros": 1,
+               "acertos": 61,
+               "qtd_letras": 338,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 68,
+               "precisao": 93.66,
+               "erros": 4,
+               "acertos": 61,
+               "qtd_letras": 358,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 61,
+               "precisao": 91.29,
+               "erros": 2,
+               "acertos": 56,
+               "qtd_letras": 316,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 67,
+               "precisao": 93.35,
+               "erros": 3,
+               "acertos": 61,
+               "qtd_letras": 349,
+               "data": "2026-03-31" 
+            },
+            {
+               "pontuacao": 64,
+               "precisao": 90.20,
+               "erros": 4,
+               "acertos": 59,
+               "qtd_letras": 343,
                "data": "2026-03-31" 
             }
         ]
