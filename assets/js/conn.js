@@ -14,7 +14,7 @@ function convertProfileApiDetail(profileDetail) {
 
 profileApi.getProfiles = () => {
     
-    const url = 'https://raw.githubusercontent.com/nckz06/grand_prix/refs/heads/main/assets/js/data.json?token=GHSAT0AAAAAADZH2LXDKC6KZDOOLKTAQWCE2OVA2OA'
+    const url = 'https://raw.githubusercontent.com/nckz06/grand_prix/refs/heads/main/assets/js/data.json'
 
     return fetch(url)
         .then(response => response.json())
