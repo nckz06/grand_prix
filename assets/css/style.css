@@ -1,0 +1,26 @@
+@import url('./reset.css');
+
+.main-content {
+    display: flex;
+    justify-content: space-around;
+
+    .profile-content {
+        display: flex;
+        flex-direction: column;
+        width: 30vw;
+        gap: 1rem;
+        padding: 2rem;
+        border: 2px solid #000;
+        border-radius: 1.5rem;
+
+        h3 {
+            font-size: 2rem;
+        }
+
+        img {
+            max-width: 250px;
+            border-radius: 50%;
+            align-self: center;
+        }
+    }
+}
